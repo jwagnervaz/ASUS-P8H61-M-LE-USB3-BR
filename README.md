@@ -7,4 +7,4 @@
 
 
 
-CPU-ID Validation https://valid.x86.fr/xpq07h
+CPU-Z Validation https://valid.x86.fr/xpq07h
